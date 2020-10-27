@@ -1,6 +1,6 @@
 | Asset | Source |
 |-------| -------|
 | Documentary | YouTube (I am a co-creator) |
-| Images of the Rwandan Genocide | Google |
-| Resources about modern day genocides | Google |
-| Information about human rights abuses | Google |
+| Images of the Rwandan Genocide (placeholders there for now)| Google |
+| Resources about modern day genocides (button is placeholder) | Google |
+| Information about human rights abuses (button is placeholder) | Google |
