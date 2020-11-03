@@ -131,7 +131,7 @@ nav {
 }
 
 nav ul {
-  float: left;
+  float: center;
 }
 
 nav ul li {
@@ -142,7 +142,7 @@ nav ul li {
 nav ul li a {
   display: block;
   font-family: Georgia;
-  color: #222
+  color:white
   font-size: 14px;
   padding: 22px 14px;
   text-decoration: none;
