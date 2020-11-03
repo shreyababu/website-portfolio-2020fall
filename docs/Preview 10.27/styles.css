@@ -4,21 +4,31 @@
 }
 
 body {
-  color: #414141;    /* Dark gray */
-  background-color: #B9D3EE;  /* slate gray */
+  color:#CEBC81; /* light yellow*/
+  background-color: #19181A;  /* dark charcoal gray */
   font-size: 18px;
 }
 
 h1 {
-  font-size: 2em;
+  font-size: 3em;
+  font-family: "Impact";
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  overflow: hidden;
+  white-space: nowrap;
+  margin-bottom: 0;
+  padding-bottom: 0;
 }
 
 h2 {
-  font-size: 1.6em;
+  font-family: "Bookman";
+  font-size: 1.9em;
+  font-style: italic;
+  padding-top: 0;
+  margin-top: 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Georgia", "Arial", sans-serif;
   font-weight: normal;
   text-align: center;
   font-color:black;
@@ -26,18 +36,19 @@ h1, h2, h3, h4, h5, h6 {
 
 p {
   text-align: center;
-  font-family: "American Typewriter"
+  font-family: "Century Gothic";
 }
 
 
 iframe {
   align: center;
-  margin-borrom: 10em;
 }
 
-.image {
- text-align:center;
+.img {
+ align-items:center;
  display:block;
+ margin-bottom: 10px;
+ padding-bottom: 10px;
 }
 
 .button:link,                 /* Change this */
@@ -46,7 +57,7 @@ iframe {
  text-decoration: none;      /* Add this */
 
   color: #FFF;
-  background-color: #5995DA;    /* Blue */
+  background-color: #B19F9E;    /* light mauve */
   font-weight: bold;
   padding: 20px;
   text-align: center;
@@ -65,8 +76,8 @@ iframe {
 
 .button:active,
 .button:visited:active {
-  color: #FFF;
-  background-color:black
+  color: #B19F9E;
+  background-color: #B19F9E;
 }
 
 .page {
@@ -75,12 +86,12 @@ iframe {
 }
 
 #button-2 {
-  background-color: #5995DA;    /* blue */
+  background-color: #B19F9E;    /* light mauve */
 }
 
 .call-to-action:link,
 .call-to-action:visited {
-  background-color: #5995DA;    /* blue */
+  background-color: #B19F9E;    /* mauve */
 }
 
 .call-to-action:hover,
@@ -127,7 +138,8 @@ p:last-of-type {
 nav {
   width: 100%;
   height: 60px;
-  background-color:black
+  background-color: #B19F9E;    /* light mauve */
+  font-family: "Palatino";
 }
 
 nav ul {
@@ -141,9 +153,17 @@ nav ul li {
 
 nav ul li a {
   display: block;
-  font-family: Georgia;
-  color:white
-  font-size: 14px;
-  padding: 22px 14px;
+  font-family: "Impact", sans-serif;
+  letter-spacing: 1px;
+  color:black;
+  text-transform: uppercase;
+  font-size: 16px;
+  padding: 22px 40px;
+  text-decoration: none;
+  justify-content: center;
+}
+
+.nav ul li a:hover {
+  background-color:black;
   text-decoration: none;
 }
