@@ -1,6 +1,6 @@
 .page {
-  width: 600px;
-  margin: 0 auto;
+    max-width: 55em;
+    margin: 0 auto;
 }
 
 body {
@@ -42,6 +42,8 @@ p {
 
 iframe {
   align: center;
+  margin: 2em auto;
+  display: flex;
 }
 
 .image {
@@ -78,11 +80,6 @@ iframe {
 .button:visited:active {
   color: #B19F9E;
   background-color: #B19F9E;
-}
-
-.page {
-  width: 600px;
-  margin: 0 auto;
 }
 
 #button-2 {
@@ -151,6 +148,10 @@ nav ul li {
   list-style: none;
 }
 
+nav::after {
+  float: none;
+}
+
 nav ul li a {
   display: block;
   font-family: "Impact", sans-serif;
@@ -166,4 +167,20 @@ nav ul li a {
 .nav ul li a:hover {
   background-color:black;
   text-decoration: none;
+}
+
+.centered {
+  margin: 0 auto;
+}
+
+
+.horizontal {
+  display: flex;
+  justify-content: space-around;
+}
+
+#survivors img {
+  width: 30%;
+  max-width: 300px;
+  height: auto;
 }
