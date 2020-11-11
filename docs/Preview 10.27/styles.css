@@ -53,10 +53,10 @@ iframe {
  padding-bottom: 10px;
 }
 
-.button:link,                 /* Change this */
-.button:visited {             /* Change this */
- display: block;             /* Add this */
- text-decoration: none;      /* Add this */
+.button:link,
+.button:visited {
+ display: block;
+ text-decoration: none;
 
   color: #FFF;
   background-color: #B19F9E;    /* light mauve */
@@ -73,13 +73,13 @@ iframe {
 .button:hover,
 .button:visited:hover {
   /* color: #FFF; */
-  background-color: #76AEED;  /* Light blue */
+  background-color: #00887a;  /* teal */
 }
 
 .button:active,
 .button:visited:active {
   color: #B19F9E;
-  background-color: #B19F9E;
+  background-color: #B19F9E; /*light mauve*/
 }
 
 #button-2 {
@@ -93,30 +93,26 @@ iframe {
 
 .call-to-action:hover,
 .call-to-action:visited:hover {
-  background-color: #76AEED;     /* Light blue */
-}
-
-.call-to-action:active,
-.call-to-action:visited:active {
-  background-color:black
+  background-color: #00887a;     /* teal */
 }
 
 a:link {
-  color: #591664;
+  color: #591664; /* dark purple */
   text-decoration: none;
 }
+
 a:visited:hover {
-  color: #00887a;
+  color: white; /*teal is 00887a*/
 }
 a:hover, a:focus {
-  color: #00887a;
+  color: #00887a;  /*teal*/
   text-decoration: underline;
 }
 a:active {
-  color: red;
+  color: #00887a;
 }
 a:visited:active {
-  color: red;
+  color: #00887a;
 }
 
 p:last-of-type {
@@ -187,4 +183,10 @@ footer.horizontal {
   width: 30%;
   max-width: 300px;
   height: auto;
+}
+
+#credits {
+  font-style: italic;
+  color: #7E8184;
+  font-size: 13px;
 }
