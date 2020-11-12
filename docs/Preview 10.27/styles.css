@@ -225,3 +225,25 @@ footer.horizontal {
   color:white;
   padding-top: 20px;
 }
+
+#term {
+  color: #CEBC81; /*yellow*/
+  font-style: normal;
+  padding-top: 10px;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+#def2 {
+  font-family: "Bookman";
+  color: #b05f72;
+  font-size: 1em;
+  align-items: center;
+}
+
+#definition {
+  font-style: italic;
+  color: #bbb;
+  font-size: 1em;
+  margin-bottom: auto;
+}
