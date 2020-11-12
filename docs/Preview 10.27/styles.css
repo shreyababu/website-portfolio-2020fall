@@ -169,7 +169,6 @@ nav ul li a {
   margin: 0 auto;
 }
 
-
 .horizontal {
   display: flex;
   justify-content: space-around;
@@ -189,4 +188,40 @@ footer.horizontal {
   font-style: italic;
   color: #7E8184;
   font-size: 13px;
+}
+
+.column {
+  float: left;
+  width: 90%;
+  padding: 10px;
+  text-align: center;
+}
+
+.row {
+  content: "";
+  display: flex;
+  clear: both;
+}
+
+#recentinfo {
+  font-style: italic;
+  color: #7E8184;
+  font-size: 13px;
+  padding-top: 10px;
+}
+
+#past {
+  color: white; /*teal*/
+  padding-bottom: 10px;
+  font-style: normal;
+}
+
+#present {
+  color:black;
+}
+
+#genwatch {
+  font-size: 1.3em;
+  color:white;
+  padding-top: 20px;
 }
