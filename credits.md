@@ -8,10 +8,13 @@
 | Information about human rights abuses | United Nations: Office on Genocide Prevention and the Responsibility to Protect https://www.un.org/en/genocideprevention/genocide.shtml |
 | Specific info about Uighurs | Human Rights Watch and The Guardian https://www.theguardian.com/world/2020/oct/28/us-senators-seek-to-declare-uighur-genocide-by-china-in-bipartisan-push |
 | Second paragraph on Darfur | Wikipedia https://en.wikipedia.org/wiki/Darfur_genocide |
-| First paragraph on Myanmar | Wikipedia (https://en.wikipedia.org/wiki/Rohingya_genocide |
+| First paragraph on Myanmar | Wikipedia https://en.wikipedia.org/wiki/Rohingya_genocide |
 
 **All photos and information: Fair Use**
 -Educational purpose
+
 -Factual nature
+
 -Only portions of text used 
+
 -Does not affect market value of originals and not being used for profit
