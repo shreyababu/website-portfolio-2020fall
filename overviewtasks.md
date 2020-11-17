@@ -1,0 +1,3 @@
+For my final project, I want to update my website from the last unit to be better. I want to make my site a lot more interactive (maybe clickable maps, more videos, etc). I also want to add more pictures but figure out a way to have them not be too distracting from the information. It would be cool to learn some of the coding skills to present the pictures in a "moving" or interactive way rather than just stagnant, such as the moving gallery. I also think I could add a lot more information in general. And, I think I could work on the font appearances if I could because I feel like some of the combinations might benefit from alteration.
+
+These are both my task goals and my project overview. 
