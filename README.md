@@ -1,5 +1,3 @@
-Hello! Welcome to my website! You can find the file to my website in the folder titled "docs". The main page is called "index". 
+Hello! Welcome to my website! For my final unit, I decided to add on a new tab to my website from the last unit. This tab is called "Rwanda", and includes some cool facts, photos, and an interactive Google Map so you can see where the country is! You can find the file to this page in the folder titled "docs". It is called "rwanda.html". 
 
-The point of this website is to provide information on the 1994 Rwandan Genocide through a documentary I made with my team for the 2018 PA National History Day state-level competition. Furthermore, the site aims to serve as an educational tool about genocide in general, and modern countries of concern.
-
-I am a complete beginner with coding, but hopefully you all find my project to be a helpful tool with a good sense of organization and basic aesthetics. Oftentimes, we don't learn about non-Eurocentric events in history so I think it is important to shed light on such a tragic occurrence like the Rwandan Genocide. Furthermore, we must be knowledgable and aware of the genocides that are going on **right now**. 
+With this new tab, I was able to experiment with new skills and really experience growth as a beginner coder! I hope this tab is able to provide you with some interesting details that give Rwanda life beyond the genocide.
