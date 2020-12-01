@@ -255,3 +255,14 @@ footer.horizontal {
   align-items: "center";
   margin-top: 0px;
 }
+
+#deathtoll {
+  margin-bottom: 15px;
+}
+
+#seven {
+  margin-top: 0px;
+  color: white;
+  padding-bottom: 40px;
+  font-family: "Century Gothic";
+}
