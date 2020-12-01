@@ -324,3 +324,25 @@ transform: scale(1.1);
 .next {
   right: 0;
 }
+
+.prev:hover,
+.next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+#kigali {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  padding-top: 0px;
+  font-style: italic;
+  font-family: Monospace;
+}
+
+#nation {
+  padding-top: 10px;
+  padding-bottom: 0px;
+  margin-bottom: 5px;
+  color: white;
+  font-style: normal;
+}
