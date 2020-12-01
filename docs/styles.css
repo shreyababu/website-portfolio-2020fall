@@ -246,3 +246,12 @@ footer.horizontal {
   font-size: 1em;
   margin-bottom: auto;
 }
+
+#gmap {
+  frameborder: 0;
+  scrolling: "no";
+  overflow: hidden;
+  background: none;
+  align-items: "center";
+  margin-top: 0px;
+}
